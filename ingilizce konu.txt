@@ -1,1 +1,5 @@
-ingilizce konuları aşağıdadır
+ingilizce dersleri aşağıdadır
+1 - Grammar
+2 - Listening
+3 - Reading
+4 - Writing
