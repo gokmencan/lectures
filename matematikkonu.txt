@@ -1,0 +1,4 @@
+matematik konuları aşağıdadır.
+1 - Calculus
+2 - DİFERANSİYEL DENKLEMLER
+3 - lineer algebra
