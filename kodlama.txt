@@ -1,0 +1,7 @@
+kodlama dersleri aşağıdadır.
+1 - PYHTON
+2 - JAVA
+3 - SQL
+4 - PHP 
+5 - MOBİL PROGRAMLAMA
+
