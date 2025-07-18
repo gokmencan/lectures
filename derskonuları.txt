@@ -1,5 +1,9 @@
 bil. müh. öğrencisinin alması gereken dersler aşağıdadır.
 1- İNGİLİZCE
+
+2 - maat
+=======
 2 - DONANIM
 3 - KODLAMA
 4 - MATEMATİK
+
